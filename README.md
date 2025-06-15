@@ -33,7 +33,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone 
+   git clone https://github.com/saurabhrao734/ToDoList.git
     ```bash
 
 ### `npm run eject`
